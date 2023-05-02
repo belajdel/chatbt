@@ -57,7 +57,7 @@ fetch('https://appname.onrender.com/predict')
 \
 4. Modify the build command in render to:
 ```bash
-"pip install -r requirements.txt"
+pip install -r requirements.txt
 
 ```
 \
