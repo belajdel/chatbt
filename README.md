@@ -57,7 +57,7 @@ fetch('https://appname.onrender.com/predict')
 \
 4. Modify the build command in render to:
 ```bash
-"pip install nltk && python -c \"import nltk; nltk.download('punkt')\" && pip install flask_cors && pip install gunicorn && pip install Flask && pip install torch && pip install torchvision"
+"pip install -r requirements.txt"
 
 ```
 \
