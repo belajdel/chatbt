@@ -71,7 +71,9 @@ start: "gunicorn app:app"
 
 
 # Usage:
-Once the chatbot is running on Render, you can access it using the API endpoint at https://linktoyourapp.onrender.com. You can send text messages to the chatbot by sending a POST request to this endpoint with the following JSON payload or by using the graphical interface:
+Once the chatbot is running on Render, you can access it using the API endpoint at https://linktoyourapp.onrender.com. 
+
+You can send text messages to the chatbot by sending a POST request to this endpoint with the following JSON payload or by using the graphical interface:
 
 ```json
 {
