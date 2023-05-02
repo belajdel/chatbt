@@ -45,7 +45,7 @@ python app.py
 # Deploying to Render:
 To deploy this chatbot to Render, follow these steps:
 1. Log in to Render using your GitHub account.
-\
+
 2. Create a new web service and import your repository.
 
 \
