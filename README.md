@@ -1,7 +1,7 @@
 
 # ChatBot
 
-A chatbot powered by an AI is a software application that is designed to simulate human conversation, using natural language processing and machine learning techniques to understand and respond to user queries.
+A chatbot powered by an AI is that is designed to simulate human conversation, using natural language processing and machine learning techniques to understand and respond to user queries.
 
 
 # Requirements:
