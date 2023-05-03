@@ -63,7 +63,7 @@ pip install -r requirements.txt
 \
 5. Modify the start command in render to:
 ```bash
-start: "gunicorn app:app"
+gunicorn app:app
 
 ```
 \
